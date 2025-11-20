@@ -75,4 +75,4 @@ Created as part of a **C programming mini‑project**.
 
 ---
 
-If you want a **Makefile**, **project report**, or **PowerPoint**, just ask!
+![image alt](https://github.com/sangramsahoobdk07-ops/HOTAL-MANAGEMENT-SYSYTEM/blob/7202aa19c1dfaed4c88dec5fa6c661d8b3b5b694/Screenshot%20(11).png)
