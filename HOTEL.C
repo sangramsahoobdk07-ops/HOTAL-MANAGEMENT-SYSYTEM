@@ -176,4 +176,7 @@ void deleteCustomer() {
         printf("Customer Deleted Successfully!\n");
     else
         printf("Customer Not Found!\n");
-}
+} 
+
+![image
+
