@@ -75,4 +75,4 @@ Created as part of a **C programming mini‑project**.
 
 ---
 
-![image alt](https://github.com/sangramsahoobdk07-ops/HOTAL-MANAGEMENT-SYSYTEM/blob/7202aa19c1dfaed4c88dec5fa6c661d8b3b5b694/Screenshot%20(11).png)
+![image alt]([https://github.com/sangramsahoobdk07-ops/HOTAL-MANAGEMENT-SYSYTEM/blob/7202aa19c1dfaed4c88dec5fa6c661d8b3b5b694/Screenshot%20(11).png](https://github.com/sangramsahoobdk07-ops/HOTAL-MANAGEMENT-SYSYTEM/blob/81060ef49ba5800eba37ff50f535c3c42f60f81e/output.jpg))
